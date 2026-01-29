@@ -8,11 +8,11 @@ Digitally signs and verifies files using RSA and SHA-256 to ensure file authenti
 
 ## 📸 Screenshots
 
-![Key Management Tab]([screenshots/1.png](https://github.com/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI/blob/ec52ac48dee0be76ba59c3b6839281d2a326c6a4/Digital%20Signature-Based%20File%20Authentication/screenshots/1.png)
+![Key Management Tab](https://github.com/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI/blob/ec52ac48dee0be76ba59c3b6839281d2a326c6a4/Digital%20Signature-Based%20File%20Authentication/screenshots/1.png)
 
-![File Signing Tab]([screenshots/2.png](https://github.com/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI/blob/ec52ac48dee0be76ba59c3b6839281d2a326c6a4/Digital%20Signature-Based%20File%20Authentication/screenshots/2.png)
+![File Signing Tab](https://github.com/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI/blob/ec52ac48dee0be76ba59c3b6839281d2a326c6a4/Digital%20Signature-Based%20File%20Authentication/screenshots/2.png)
 
-![Verification Tab]([screenshots/3.png](https://github.com/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI/blob/ec52ac48dee0be76ba59c3b6839281d2a326c6a4/Digital%20Signature-Based%20File%20Authentication/screenshots/3.png)
+![Verification Tab](https://github.com/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI/blob/ec52ac48dee0be76ba59c3b6839281d2a326c6a4/Digital%20Signature-Based%20File%20Authentication/screenshots/3.png)
 
 ![Hash/Signature Viewer Tab](https://github.com/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI/blob/ec52ac48dee0be76ba59c3b6839281d2a326c6a4/Digital%20Signature-Based%20File%20Authentication/screenshots/4.png)
 
