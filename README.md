@@ -98,24 +98,15 @@ pip install tkinterdnd2
 ## 🗂️ 7. Folder Structure
 
 ```
-Digital-Signature-Based-File-Authentication/
-│
-├── main.py                 # Main application file
-├── audit.log               # Audit logs
-├── README.md               # Documentation
-│
-├── keys/
-│   ├── private_key.pem
-│   ├── public_key.pem
-│
-├── certificates/
-│   ├── user_certificate.crt
-│
-├── signatures/
-│   ├── file.sig
-│
-└── sample_files/
-    └── test_document.pdf
+Digital Signature-Based File Authentication/
+|
+├── main.py
+├── screenshots/
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   ├── 4.png
+│   └── 5.png
 
 ```
 
