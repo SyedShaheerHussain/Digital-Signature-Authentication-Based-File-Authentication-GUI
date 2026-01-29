@@ -8,11 +8,11 @@ Digitally signs and verifies files using RSA and SHA-256 to ensure file authenti
 
 ## 📸 Screenshots
 
-![Key Management Tab](screenshots/1.png)
-![File Signing Tab](screenshots/2.png)
-![Verification Tab](screenshots/3.png)
-![Hash/Signature Viewer Tab](screenshots/4.png)
-![Settings Tab](screenshots/5.png)
+![Key Management Tab](Digital Signature-Based File Authentication/screenshots/1.png)
+![File Signing Tab](Digital Signature-Based File Authentication/screenshots/2.png)
+![Verification Tab](Digital Signature-Based File Authentication/screenshots/3.png)
+![Hash/Signature Viewer Tab](Digital Signature-Based File Authentication/screenshots/4.png)
+![Settings Tab](Digital Signature-Based File Authentication/screenshots/5.png)
 
 ## 📌 1. Project Description (Overview)
 
