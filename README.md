@@ -1,8 +1,8 @@
-# Digital Signature Authentication
+# 🔐 Digital Signature Authentication
+
+## Digital Signature–Based File Authentication System
 
 Digitally signs and verifies files using RSA and SHA-256 to ensure file authenticity, integrity, and tamper detection.
-
-# 🔐 Digital Signature–Based File Authentication System
 
 **Developed by © 2026 Syed Shaheer Hussain**
 
