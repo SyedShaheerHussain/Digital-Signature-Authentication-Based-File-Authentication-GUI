@@ -324,6 +324,24 @@ python main.py
 * GUI architecture
 * Exception handling
 
+## ⭐ Support & Engagement
+
+If you find this repository useful or insightful, please consider:
+
+- ⭐ Starring the repository
+- 🔁 Sharing it within your network
+- 👤 Following my GitHub profile for future projects and updates
+
+Your support helps drive continued innovation and open-source contributions.
+
+— Syed Shaheer Hussain
+
+[![GitHub followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Follow&style=social)](https://github.com/SyedShaheerHussain)
+
+![Followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Followers&color=blue)
+
+![Stars](https://img.shields.io/github/stars/SyedShaheerHussain/Digital-Signature-Authentication-Based-File-Authentication-GUI?label=Stars&color=yellow)
+
 ## 👨‍💻 25. Developer Information
 
 **© 2026 Syed Shaheer Hussain**
